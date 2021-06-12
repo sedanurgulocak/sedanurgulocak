@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sedanurgulocak" alt="sedanurgulocak" /></a> </p>
 
-- 🌱 I’m currently learning **C#, ASP.NET Core, N-Layer Arhitecture, SQL Server, MySQL, PostgreSQL, Object Orianted Principle, Aspect Oriented Principle, SOLID Principle**
+- 🌱 I’m currently learning **Java, C#, ASP.NET Core, N-Layer Arhitecture, SQL Server, MySQL, PostgreSQL, Object Orianted Principle, Aspect Oriented Principle, SOLID Principle**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sedanurgulocak?tab=repositories](https://github.com/sedanurgulocak?tab=repositories)
 
