@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://qiskit.org/" target="_blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4a/Qiskit-Logo.svg](https://www.bing.com/images/search?view=detailV2&ccid=WWFjbzu0&id=0D59AE5C71D9F362D280EC275E9AC2D73169EC25&thid=OIP.WWFjbzu0VNQhSY02uvKNbQHaFj&mediaurl=https%3a%2f%2flogowik.com%2fcontent%2fuploads%2fimages%2fqiskit9093.logowik.com.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5961636f3bb454d421498d36baf28d6d%3frik%3dJexpMdfCml4n7A%26pid%3dImgRaw%26r%3d0&exph=650&expw=866&q=Qiskit-Logo.svg&simid=607999509935840203&FORM=IRPRST&ck=56C50CF5E3A4BFEBE7B1582D968B5DC3&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0)" alt="qiskit" width="40" height="40"/>
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4a/Qiskit-Logo.svg](https://logowik.com/content/uploads/images/qiskit9093.logowik.com.webp)" alt="qiskit" width="40" height="40"/>
   </a> 
   <a href="https://quantum-computing.ibm.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/IBM_Q_Logo.png" alt="ibm quantum" width="40" height="40"/>
