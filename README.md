@@ -42,7 +42,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/PennyLane_logo.png" alt="pennylane" width="40" height="40"/>
   </a>
   <a href="https://cirq.readthedocs.io/en/stable/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cirq_logo.svg/120px-Cirq_logo.svg.png" alt="cirq" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Cirq_Logo.svg" alt="cirq" width="40" height="40"/>
   </a>
 </p>
 
