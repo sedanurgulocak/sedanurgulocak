@@ -5,6 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sedanurgulocak" alt="sedanurgulocak" /></a> </p>
 
+- 🚀 I’m currently researching Quantum Computing, Quantum Algorithms, Quantum Optimization, Quantum Programming with Qiskit, Quantum Machine Learning, Hybrid Quantum-Classical Approaches, and Metaheuristic Optimization in Quantum Systems as part of my PhD studies.
+- 🔬 Working with Qiskit (Python), IBM Quantum, and quantum simulators for algorithm development and experimentation.
+
+
+
 - 🌱 I’m currently learning **Java, Spring Boot, C#, ASP.NET Core, N-Layer Arhitecture, SQL Server, MySQL, PostgreSQL, Object Orianted Principle, Aspect Oriented Principle, SOLID Principle**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sedanurgulocak?tab=repositories](https://github.com/sedanurgulocak?tab=repositories)
