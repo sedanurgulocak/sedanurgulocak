@@ -27,7 +27,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="qiskit" width="40" height="40"/>
   </a> 
   <a href="https://quantum-computing.ibm.com/" target="_blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/2/23/IBM_Q_Logo.png](https://upload.wikimedia.org/wikipedia/commons/a/a5/IBM_Quantum_Platform_logo.svg)" alt="ibm quantum" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/IBM_Quantum_Platform_logo.svg" alt="ibm quantum" width="40" height="40"/>
   </a> 
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/>
