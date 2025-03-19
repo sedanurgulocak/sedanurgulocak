@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://qiskit.org/" target="_blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4a/Qiskit-Logo.svg](https://logowik.com/content/uploads/images/qiskit9093.logowik.com.webp)" alt="qiskit" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="qiskit" width="40" height="40"/>
   </a> 
   <a href="https://quantum-computing.ibm.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/IBM_Q_Logo.png" alt="ibm quantum" width="40" height="40"/>
