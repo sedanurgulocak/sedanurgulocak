@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://qiskit.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="qiskit" width="40" height="40"/>
+    <img src="https://logowik.com/content/uploads/images/qiskit9093.logowik.com.webp" alt="qiskit" width="40" height="40"/>
   </a> 
   <a href="https://quantum-computing.ibm.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/IBM_Quantum_Platform_logo.svg" alt="ibm quantum" width="40" height="40"/>
@@ -37,9 +37,6 @@
   </a>
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://pennylane.ai/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/PennyLane_logo.png" alt="pennylane" width="40" height="40"/>
   </a>
   <a href="https://cirq.readthedocs.io/en/stable/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Cirq_Logo.svg" alt="cirq" width="40" height="40"/>
